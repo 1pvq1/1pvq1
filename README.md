@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=1pvq1&theme=algolia" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=1pvq1&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1pvq1&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=1pvq1&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1pvq1&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1pvq1&theme=tokyonight" />
