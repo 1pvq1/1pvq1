@@ -28,14 +28,14 @@ Here are some ideas to get you started:
   <table>
     <tr>
       <!-- Overview Stats - Total contributions, PRs, issues, and followers -->
-      <td> <img src="https://github-readme-stats.vercel.app/api?username=1pvq1&show_icons=true&theme=tokyonight" />  </td>
+      <td> <img src="assets/profile-overview.svg" />  </td>
       <!-- Top Languages - Most used programming languages -->
-      <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1pvq1&layout=compact&theme=tokyonight" />  </td>
+      <td> <img src="assets/top-langs.svg" />  </td>
     </tr>
   </table>
   
 <!-- Contribution Streak - Current and longest streak of contributions -->
-<img src="https://streak-stats.demolab.com?user=1pvq1&theme=tokyonight" />
+<img src="assets/streak.svg" />
 
 
 ---
@@ -47,10 +47,10 @@ Here are some ideas to get you started:
   <tr>
 
   <!-- Profile Details Card - Summary of your GitHub activity -->
-   <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1pvq1&theme=tokyonight" /></td>
+   <td> <img src="assets/profile-details.svg" /></td>
   
   <!-- Productive Hours Card - When you're most active -->
-   <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1pvq1&theme=tokyonight" /></td>
+   <td> <img src="assets/productive-time.svg" /></td>
 
   </tr>
 </table>
