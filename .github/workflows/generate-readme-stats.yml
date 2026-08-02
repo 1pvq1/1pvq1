@@ -28,6 +28,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: '1pvq1'
+          CONTRIB_START_DATE: '2022-03-19T00:00:00Z'
+          TOP_LANG_COUNT: '6'
         run: |
           set -euo pipefail
           python scripts/generate_readme_stats.py

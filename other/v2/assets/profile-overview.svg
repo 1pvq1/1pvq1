@@ -14,19 +14,25 @@
     </linearGradient>
   </defs>
 
+  <!-- Container -->
   <rect width="410" height="210" rx="16" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5"/>
 
+  <!-- Title -->
   <text x="24" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#f8fafc">
     📊 Profile Metrics
   </text>
   <line x1="24" y1="50" x2="386" y2="50" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" />
 
+  <!-- Grid Items -->
   <g transform="translate(24, 68)">
+    <!-- Metric 1: Contributions -->
     <rect x="0" y="0" width="174" height="54" rx="10" fill="#1e293b" opacity="0.6" stroke="#334155" stroke-width="1"/>
+    <!-- Icon -->
     <path d="M 16 18 L 22 28 L 34 16" fill="none" stroke="#818cf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="44" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="800" fill="url(#accent1)">2</text>
     <text x="44" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="500" fill="#94a3b8">Total Contributions</text>
 
+    <!-- Metric 2: Repositories -->
     <rect x="188" y="0" width="174" height="54" rx="10" fill="#1e293b" opacity="0.6" stroke="#334155" stroke-width="1"/>
     <path d="M 204 18 C 204 18, 210 16, 216 20 C 222 24, 222 30, 222 30" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round"/>
     <circle cx="204" cy="18" r="3" fill="#38bdf8"/>
@@ -34,11 +40,13 @@
     <text x="232" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="800" fill="url(#accent2)">3</text>
     <text x="232" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="500" fill="#94a3b8">Public Repositories</text>
 
+    <!-- Metric 3: Stars & Engagement -->
     <rect x="0" y="66" width="174" height="54" rx="10" fill="#1e293b" opacity="0.6" stroke="#334155" stroke-width="1"/>
     <polygon points="20,13 23,20 30,21 25,26 26,33 20,29 14,33 15,26 10,21 17,20" fill="#fbbf24"/>
     <text x="44" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="800" fill="#fde047">1</text>
     <text x="44" y="106" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="500" fill="#94a3b8">Stargazers Earned</text>
 
+    <!-- Metric 4: Followers -->
     <rect x="188" y="66" width="174" height="54" rx="10" fill="#1e293b" opacity="0.6" stroke="#334155" stroke-width="1"/>
     <circle cx="206" cy="84" r="5" fill="#f43f5e"/>
     <path d="M 198 98 C 198 90, 214 90, 214 98" fill="none" stroke="#f43f5e" stroke-width="2"/>

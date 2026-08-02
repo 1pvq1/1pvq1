@@ -38,8 +38,8 @@
 1010101010101010101010101010101010
 ```
 
-  </td>
-<td width="50%">
+    </td>
+    <td width="50%">
 
 - 🔭 **Currently Building**: Cross-platform desktop/mobile solutions & native tools.
 - 🌱 **Exploring**: Advanced AI architectures, high-performance systems & modern graphics.
