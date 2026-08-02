@@ -233,7 +233,7 @@ def write_productive_time(days, out='assets/productive-time.svg'):
     for d in days:
         dt = datetime.fromisoformat(d['date'])
         wd = dt.weekday() # Mon=0
-        bywd[wd] += d['count']
+        bywd[wd] += d['contributionCount']
     labels = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun']
     maxv = max(bywd) or 1
     width = 760

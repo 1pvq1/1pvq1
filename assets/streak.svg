@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="140">
+  <rect width="100%" height="100%" rx="8" fill="#0f1720" />
+  <text x="40" y="60" font-size="28" fill="#caa6ff">Current Streak</text>
+  <text x="40" y="100" font-size="42" font-weight="700" fill="#82aaff">0</text>
+  <text x="300" y="60" font-size="28" fill="#8ab4ff">Longest Streak</text>
+  <text x="300" y="100" font-size="42" font-weight="700" fill="#82aaff">1</text>
+</svg>

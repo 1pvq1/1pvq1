@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300">
+<rect width="100%" height="100%" rx="8" fill="#0f1720" />
+<text x="40" y="40" font-size="16" fill="#cfe7ff">C#</text>
+<rect x="220" y="26" width="334" height="16" fill="#5dd9c1" rx="4" />
+<text x="562" y="40" font-size="12" fill="#9ad1c7">69.7%</text>
+<text x="40" y="70" font-size="16" fill="#cfe7ff">Kotlin</text>
+<rect x="220" y="56" width="141" height="16" fill="#5dd9c1" rx="4" />
+<text x="369" y="70" font-size="12" fill="#9ad1c7">29.6%</text>
+<text x="40" y="100" font-size="16" fill="#cfe7ff">Python</text>
+<rect x="220" y="86" width="1" height="16" fill="#5dd9c1" rx="4" />
+<text x="229" y="100" font-size="12" fill="#9ad1c7">0.4%</text>
+<text x="40" y="130" font-size="16" fill="#cfe7ff">CSS</text>
+<rect x="220" y="116" width="1" height="16" fill="#5dd9c1" rx="4" />
+<text x="229" y="130" font-size="12" fill="#9ad1c7">0.3%</text>
+<text x="40" y="160" font-size="16" fill="#cfe7ff">HTML</text>
+<rect x="220" y="146" width="0" height="16" fill="#5dd9c1" rx="4" />
+<text x="228" y="160" font-size="12" fill="#9ad1c7">0.1%</text>
+<text x="40" y="190" font-size="16" fill="#cfe7ff">JavaScript</text>
+<rect x="220" y="176" width="0" height="16" fill="#5dd9c1" rx="4" />
+<text x="228" y="190" font-size="12" fill="#9ad1c7">0.0%</text>
+</svg>
