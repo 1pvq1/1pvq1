@@ -29,13 +29,13 @@
     <td width="50%" stroke="none">
 
 ```gcode
-1010101010101010101010101010101010
-01  __   ____  _  _   ___  1  10
-10 /  \ |  _ \| |/ /  / _ \ 0  01
-01| () || |_) | ' <  | (_) |  10
-10 \__/ | .__/|_|\_\  \__\_\ 0  01
-01      |_|                   10
-1010101010101010101010101010101010
+101010101010101010101010101010101010101010
+01   __   ____   __     __   ___    __  10
+01  /  | |  _ \  \ \   / /  / _ \  /  | 10
+01  |  | | |_) |  \ \ / /  | | | | |  | 10
+01  |  | |  __/    \ V /   | |_| | |  | 10
+01  |__| |_|        \_/     \__\_\ |__| 10
+101010101010101010101010101010101010101010
 ```
 
   </td>
@@ -43,7 +43,7 @@
 
 - 🔭 **Currently Building**: Cross-platform desktop/mobile solutions & native tools.
 - 🌱 **Exploring**: Advanced AI architectures, high-performance systems & modern graphics.
-- 💬 **Ask Me About**: `C# / .NET`, `Swift`, `Kotlin`, `TypeScript`, `Python`.
+- 💬 **Ask Me About**: `C# / .NET`, `Python`, `Kotlin`, `TypeScript`, `Swift`.
 - ⚡ **Fun Fact**: Polyglot code bases fuel creative problem-solving across platforms!
 - 📫 **Reach Out**: Feel free to explore repositories or collaborate on open-source projects.
 

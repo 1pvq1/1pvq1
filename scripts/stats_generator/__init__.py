@@ -1,6 +1,6 @@
 """
 Stats Generator Module
-Provides modular API fetching, data calculation, and SVG rendering for GitHub profile stats.
+Provides modular API fetching, data calculation, SVG rendering, and G-Code generation.
 """
 
 from .config import GITHUB_API, USERNAME, TOKEN, START_DATE, TOP_LANG_COUNT, LANG_COLORS
